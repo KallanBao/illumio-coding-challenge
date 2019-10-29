@@ -112,7 +112,7 @@ public class Firewall {
             if (contains(lower, upper))
                 update(lower, upper, p);
             else
-                insert(root, upper, lower, p);
+                insert(root, lower, upper, p);
         }
 
         private Node insert(Node x, long lower, long upper, Packet p) {
