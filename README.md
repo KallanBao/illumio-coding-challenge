@@ -1,4 +1,4 @@
-# illumio-coding-challenge
+# coding-challenge
 
 One of the major problems that I ran into was figuring out how to deal with the ranges
 of ports and ip addresses. I initially tried to just put everything into a set using a
